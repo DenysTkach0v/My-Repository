@@ -1,0 +1,44 @@
+2025-01-31 00:27:30,429 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, SYS]
+2025-01-31 00:27:31,355 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, SYS]
+2025-01-31 00:27:41,129 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 799619144 Bytes (1073741824)
+2025-01-31 00:27:44,746 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 696220688 Bytes (1073741824)
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2025-01-31 00:27:45,128 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2025-01-31 00:27:45,129 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2025-01-31 00:27:45,414 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\license.tmp_save
+2025-01-31 00:27:45,572 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\license.tmp
+2025-01-31 00:27:45,640 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\gpio.tmp_save
+2025-01-31 00:27:45,758 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\gpio.tmp
+2025-01-31 00:27:45,912 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\dma.tmp_save
+2025-01-31 00:27:46,013 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\dma.tmp
+2025-01-31 00:27:46,028 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\dma_GV.tmp_save
+2025-01-31 00:27:46,097 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\dma_GV.tmp
+2025-01-31 00:27:46,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Src\stm32f4xx_it.c_save
+2025-01-31 00:27:46,563 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Src\stm32f4xx_it.c
+2025-01-31 00:27:46,590 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Inc\stm32f4xx_it.h_save
+2025-01-31 00:27:46,688 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Inc\stm32f4xx_it.h
+2025-01-31 00:27:46,737 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Src\stm32f4xx_hal_msp.c_save
+2025-01-31 00:27:46,912 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Src\stm32f4xx_hal_msp.c
+2025-01-31 00:27:46,940 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\system.tmp_save
+2025-01-31 00:27:47,046 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\MXTmpFiles\system.tmp
+2025-01-31 00:27:47,089 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-01-31 00:27:47,233 [INFO] CodeEngine:335 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Inc\stm32f4xx_hal_conf.h
+2025-01-31 00:27:47,278 [WARN] IPConfigManager:3440 - IP not found : TIM
+2025-01-31 00:27:47,280 [WARN] CodeGenerator:3939 - IP not found : null
+2025-01-31 00:27:47,322 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Inc\main.h_save
+2025-01-31 00:27:47,459 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Inc\main.h
+2025-01-31 00:27:47,483 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Src\main.c_save
+2025-01-31 00:27:47,649 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\DMA1\Core\Src\main.c
+2025-01-31 00:27:48,364 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 238mS.
+2025-01-31 00:27:48,368 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2025-01-31 00:27:48,704 [INFO] ConfigFileManager:1495 - The Die is : DIE419
+2025-01-31 00:27:51,063 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2695mS.
+2025-01-31 00:27:51,064 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2025-01-31 00:27:51,066 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2025-01-31 00:40:53,591 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, SYS]
+2025-01-31 00:41:04,748 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC, SYS]

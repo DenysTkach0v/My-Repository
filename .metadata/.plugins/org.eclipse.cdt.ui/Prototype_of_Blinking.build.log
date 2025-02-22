@@ -1,0 +1,10 @@
+09:26:37 **** Incremental Build of configuration Debug for project Prototype_of_Blinking ****
+make -j8 all 
+arm-none-eabi-size  Prototype_of_Blinking.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4728	     20	   1572	   6320	   18b0	Prototype_of_Blinking.elf
+Finished building: default.size.stdout
+ 
+
+09:26:37 Build Finished. 0 errors, 0 warnings. (took 261ms)
+

@@ -1,0 +1,2 @@
+../Core/Src/DHT11.c:31:19:DHT11_Init	1
+../Core/Src/DHT11.c:37:19:DHT11_Read	8

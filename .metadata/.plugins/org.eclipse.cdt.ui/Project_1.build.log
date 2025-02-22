@@ -1,0 +1,11 @@
+21:42:30 **** Incremental Build of configuration Debug for project Project_1 ****
+make -j8 all 
+arm-none-eabi-gcc -o "Project_1.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\tkach\Embedded-C\My_workspace\target\Project_1\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Project_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+C:/ST/STM32CubeIDE_1.14.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/bin/ld.exe: Project_1.elf section `.text' will not fit in region `FLASH'
+C:/ST/STM32CubeIDE_1.14.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/bin/ld.exe: region `FLASH' overflowed by 4844 bytes
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:74: Project_1.elf] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+21:42:31 Build Failed. 3 errors, 0 warnings. (took 1s.312ms)
+

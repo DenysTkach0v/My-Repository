@@ -1,0 +1,144 @@
+2024-10-24 00:40:28,250 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:41:48,733 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:41:57,915 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:42:15,693 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 876694032 Bytes (1073741824)
+2024-10-24 00:42:17,022 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 920966664 Bytes (1073741824)
+2024-10-24 00:42:17,237 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-10-24 00:42:17,237 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-10-24 00:42:17,237 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-10-24 00:42:17,237 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-10-24 00:42:17,237 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-10-24 00:42:17,238 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-10-24 00:42:17,413 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp_save
+2024-10-24 00:42:17,491 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp
+2024-10-24 00:42:17,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp_save
+2024-10-24 00:42:17,616 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp
+2024-10-24 00:42:17,749 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c_save
+2024-10-24 00:42:17,944 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c
+2024-10-24 00:42:17,971 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h_save
+2024-10-24 00:42:18,037 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h
+2024-10-24 00:42:18,076 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c_save
+2024-10-24 00:42:18,175 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c
+2024-10-24 00:42:18,210 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp_save
+2024-10-24 00:42:18,281 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp
+2024-10-24 00:42:18,316 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-10-24 00:42:18,388 [INFO] CodeEngine:335 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h
+2024-10-24 00:42:18,410 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-10-24 00:42:18,411 [WARN] CodeGenerator:3939 - IP not found : null
+2024-10-24 00:42:18,432 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h_save
+2024-10-24 00:42:18,513 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h
+2024-10-24 00:42:18,544 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c_save
+2024-10-24 00:42:18,667 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c
+2024-10-24 00:42:19,234 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 161mS.
+2024-10-24 00:42:19,237 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-10-24 00:42:19,481 [INFO] ConfigFileManager:1495 - The Die is : DIE410
+2024-10-24 00:42:20,999 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1762mS.
+2024-10-24 00:42:21,008 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-10-24 00:42:21,011 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-10-24 00:43:37,325 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:43:42,878 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:43:56,086 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:44:23,531 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 914028872 Bytes (1073741824)
+2024-10-24 00:44:24,760 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 957968464 Bytes (1073741824)
+2024-10-24 00:44:24,949 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-10-24 00:44:24,950 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-10-24 00:44:24,950 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-10-24 00:44:24,950 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-10-24 00:44:24,950 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-10-24 00:44:24,951 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-10-24 00:44:25,074 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp_save
+2024-10-24 00:44:25,149 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp
+2024-10-24 00:44:25,164 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp_save
+2024-10-24 00:44:25,275 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp
+2024-10-24 00:44:25,332 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c_save
+2024-10-24 00:44:25,425 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c
+2024-10-24 00:44:25,430 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h_save
+2024-10-24 00:44:25,490 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h
+2024-10-24 00:44:25,510 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c_save
+2024-10-24 00:44:25,631 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c
+2024-10-24 00:44:25,636 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp_save
+2024-10-24 00:44:25,684 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp
+2024-10-24 00:44:25,706 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-10-24 00:44:25,775 [INFO] CodeEngine:335 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h
+2024-10-24 00:44:25,792 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-10-24 00:44:25,793 [WARN] CodeGenerator:3939 - IP not found : null
+2024-10-24 00:44:25,810 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h_save
+2024-10-24 00:44:25,870 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h
+2024-10-24 00:44:25,881 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c_save
+2024-10-24 00:44:25,982 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c
+2024-10-24 00:44:26,555 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 113mS.
+2024-10-24 00:44:26,559 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-10-24 00:44:26,836 [INFO] ConfigFileManager:1495 - The Die is : DIE410
+2024-10-24 00:44:28,867 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2307mS.
+2024-10-24 00:44:28,868 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-10-24 00:44:28,870 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-10-24 00:52:00,670 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 836908592 Bytes (1073741824)
+2024-10-24 00:52:00,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-10-24 00:52:00,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-10-24 00:52:00,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-10-24 00:52:00,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-10-24 00:52:00,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-10-24 00:52:00,829 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-10-24 00:52:01,006 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp_save
+2024-10-24 00:52:01,097 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp
+2024-10-24 00:52:01,109 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp_save
+2024-10-24 00:52:01,204 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp
+2024-10-24 00:52:01,252 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c_save
+2024-10-24 00:52:01,444 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c
+2024-10-24 00:52:01,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h_save
+2024-10-24 00:52:01,518 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h
+2024-10-24 00:52:01,557 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c_save
+2024-10-24 00:52:01,708 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c
+2024-10-24 00:52:01,714 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp_save
+2024-10-24 00:52:01,780 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp
+2024-10-24 00:52:01,800 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-10-24 00:52:01,887 [INFO] CodeEngine:335 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h
+2024-10-24 00:52:01,902 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-10-24 00:52:01,903 [WARN] CodeGenerator:3939 - IP not found : null
+2024-10-24 00:52:01,918 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h_save
+2024-10-24 00:52:01,989 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h
+2024-10-24 00:52:02,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c_save
+2024-10-24 00:52:02,080 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c
+2024-10-24 00:52:02,541 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 113mS.
+2024-10-24 00:52:02,544 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-10-24 00:52:02,871 [INFO] ConfigFileManager:1495 - The Die is : DIE410
+2024-10-24 00:52:04,136 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1592mS.
+2024-10-24 00:52:04,137 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-10-24 00:52:04,140 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-10-24 00:58:52,921 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:58:58,107 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:59:13,565 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-10-24 00:59:22,275 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 840845776 Bytes (1073741824)
+2024-10-24 00:59:24,632 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 921158272 Bytes (1073741824)
+2024-10-24 00:59:24,812 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-10-24 00:59:24,812 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F1
+2024-10-24 00:59:24,812 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-10-24 00:59:24,813 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-10-24 00:59:24,813 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-10-24 00:59:24,814 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-10-24 00:59:24,952 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp_save
+2024-10-24 00:59:25,057 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\license.tmp
+2024-10-24 00:59:25,073 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp_save
+2024-10-24 00:59:25,198 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\gpio.tmp
+2024-10-24 00:59:25,250 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c_save
+2024-10-24 00:59:25,447 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_it.c
+2024-10-24 00:59:25,454 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h_save
+2024-10-24 00:59:25,507 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_it.h
+2024-10-24 00:59:25,524 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c_save
+2024-10-24 00:59:25,605 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\stm32f1xx_hal_msp.c
+2024-10-24 00:59:25,608 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp_save
+2024-10-24 00:59:25,653 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\MXTmpFiles\system.tmp
+2024-10-24 00:59:25,671 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-10-24 00:59:25,744 [INFO] CodeEngine:335 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\stm32f1xx_hal_conf.h
+2024-10-24 00:59:25,760 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-10-24 00:59:25,761 [WARN] CodeGenerator:3939 - IP not found : null
+2024-10-24 00:59:25,776 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h_save
+2024-10-24 00:59:25,843 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Inc\main.h
+2024-10-24 00:59:25,855 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c_save
+2024-10-24 00:59:25,944 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\ButtonBlinking\Core\Src\main.c
+2024-10-24 00:59:26,520 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 132mS.
+2024-10-24 00:59:26,523 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-10-24 00:59:26,829 [INFO] ConfigFileManager:1495 - The Die is : DIE410
+2024-10-24 00:59:28,063 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1540mS.
+2024-10-24 00:59:28,064 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-10-24 00:59:28,067 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

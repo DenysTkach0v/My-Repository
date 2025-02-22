@@ -1,0 +1,65 @@
+2025-02-07 00:07:55,762 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 742829480 Bytes (1073741824)
+2025-02-07 00:07:56,763 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 788966824 Bytes (1073741824)
+2025-02-07 00:07:57,600 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 845589928 Bytes (1073741824)
+2025-02-07 00:07:57,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2025-02-07 00:07:57,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2025-02-07 00:07:57,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2025-02-07 00:07:57,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2025-02-07 00:07:57,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2025-02-07 00:07:57,803 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2025-02-07 00:07:57,804 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2025-02-07 00:07:57,823 [WARN] IP:2119 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-02-07 00:07:57,823 [WARN] IP:2119 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-02-07 00:07:57,823 [WARN] IP:2119 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-02-07 00:07:57,999 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\license.tmp_save
+2025-02-07 00:07:58,136 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\license.tmp
+2025-02-07 00:07:58,166 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\gpio.tmp_save
+2025-02-07 00:07:58,314 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\gpio.tmp
+2025-02-07 00:07:58,359 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-02-07 00:07:58,369 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-02-07 00:07:58,517 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-02-07 00:07:58,522 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-02-07 00:07:58,609 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-02-07 00:07:58,613 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-02-07 00:07:58,789 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-02-07 00:07:58,795 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-02-07 00:07:58,899 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-02-07 00:07:58,972 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2025-02-07 00:07:58,987 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2025-02-07 00:07:59,021 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usb_device.c_save
+2025-02-07 00:07:59,111 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usb_device.c
+2025-02-07 00:07:59,126 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usb_device.h_save
+2025-02-07 00:07:59,206 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usb_device.h
+2025-02-07 00:07:59,212 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\Target\usbd_conf.h_save
+2025-02-07 00:07:59,288 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\Target\usbd_conf.h
+2025-02-07 00:07:59,301 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\Target\usbd_conf.c_save
+2025-02-07 00:07:59,389 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\Target\usbd_conf.c
+2025-02-07 00:07:59,400 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_desc.h_save
+2025-02-07 00:07:59,447 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_desc.h
+2025-02-07 00:07:59,461 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_desc.c_save
+2025-02-07 00:07:59,543 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_desc.c
+2025-02-07 00:07:59,557 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_cdc_if.h_save
+2025-02-07 00:07:59,603 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_cdc_if.h
+2025-02-07 00:07:59,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_cdc_if.c_save
+2025-02-07 00:07:59,703 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\USB_DEVICE\App\usbd_cdc_if.c
+2025-02-07 00:07:59,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Src\stm32f4xx_it.c_save
+2025-02-07 00:07:59,916 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Src\stm32f4xx_it.c
+2025-02-07 00:07:59,932 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Inc\stm32f4xx_it.h_save
+2025-02-07 00:08:00,008 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Inc\stm32f4xx_it.h
+2025-02-07 00:08:00,040 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Src\stm32f4xx_hal_msp.c_save
+2025-02-07 00:08:00,148 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Src\stm32f4xx_hal_msp.c
+2025-02-07 00:08:00,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\system.tmp_save
+2025-02-07 00:08:00,220 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\MXTmpFiles\system.tmp
+2025-02-07 00:08:00,239 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-02-07 00:08:00,347 [INFO] CodeEngine:335 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Inc\stm32f4xx_hal_conf.h
+2025-02-07 00:08:00,399 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Inc\main.h_save
+2025-02-07 00:08:00,499 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Inc\main.h
+2025-02-07 00:08:00,514 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Src\main.c_save
+2025-02-07 00:08:00,608 [INFO] CodeEngine:279 - Generated code: C:\Users\tkach\Embedded-C\My_workspace\target\USB\Core\Src\main.c
+2025-02-07 00:08:01,231 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 204mS.
+2025-02-07 00:08:01,237 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2025-02-07 00:08:01,579 [INFO] ConfigFileManager:1495 - The Die is : DIE419
+2025-02-07 00:08:03,612 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2374mS.
+2025-02-07 00:08:03,613 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2025-02-07 00:08:03,618 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2025-02-07 00:08:39,822 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,507x173,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]

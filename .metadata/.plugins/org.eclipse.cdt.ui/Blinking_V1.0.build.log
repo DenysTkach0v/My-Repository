@@ -1,0 +1,19 @@
+21:42:24 **** Incremental Build of configuration Debug for project Blinking_V1.0 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:107:15: warning: implicit declaration of function 'GPIO_ReadInputDataBit' [-Wimplicit-function-declaration]
+  107 |           if (GPIO_ReadInputDataBit(GPIOA,GPIO_PIN_0)==0)
+      |               ^~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:109:22: error: 'TIM_Pulse' undeclared (first use in this function)
+  109 |                   if(TIM_Pulse < PERIOD)
+      |                      ^~~~~~~~~
+../Core/Src/main.c:109:22: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:109:34: error: 'PERIOD' undeclared (first use in this function)
+  109 |                   if(TIM_Pulse < PERIOD)
+      |                                  ^~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+21:42:25 Build Failed. 3 errors, 1 warnings. (took 953ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;printf_without_SWO&apos;" deleteContents="false" description="Delete resource &apos;printf_without_SWO&apos;" element1="/printf_without_SWO" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1710673209046"/>
+</session>

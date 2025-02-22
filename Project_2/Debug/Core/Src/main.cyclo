@@ -1,0 +1,11 @@
+../Core/Src/main.c:76:9:ds_reset_pulse	6
+../Core/Src/main.c:98:6:ds_write_bit	4
+../Core/Src/main.c:113:10:ds_read_bit	4
+../Core/Src/main.c:131:6:ds_write_byte	2
+../Core/Src/main.c:141:9:ds_read_byte	3
+../Core/Src/main.c:154:5:main	3
+../Core/Src/main.c:245:6:SystemClock_Config	3
+../Core/Src/main.c:282:13:MX_TIM3_Init	4
+../Core/Src/main.c:327:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:360:13:MX_GPIO_Init	1
+../Core/Src/main.c:403:6:Error_Handler	1

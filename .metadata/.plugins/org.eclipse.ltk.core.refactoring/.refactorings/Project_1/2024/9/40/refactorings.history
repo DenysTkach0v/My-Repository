@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project_1/Core/Src/DHT.c&apos; to &apos;DHT11.c&apos;" description="Rename resource &apos;DHT.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/DHT.c" name="DHT11.c" stamp="1727729851055" updateReferences="true"/>
+</session>

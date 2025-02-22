@@ -1,0 +1,63 @@
+12:59:48 **** Incremental Build of configuration Debug for project printf_without_SWO ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'SystemClock_Config':
+../Core/Src/main.c:117:3: warning: implicit declaration of function 'HAL_PWREx_ControlVoltageScaling' [-Wimplicit-function-declaration]
+  117 |   HAL_PWREx_ControlVoltageScaling(PWR_REGULATOR_VOLTAGE_SCALE1);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:117:35: error: 'PWR_REGULATOR_VOLTAGE_SCALE1' undeclared (first use in this function)
+  117 |   HAL_PWREx_ControlVoltageScaling(PWR_REGULATOR_VOLTAGE_SCALE1);
+      |                                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:117:35: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:122:20: error: 'RCC_OscInitTypeDef' has no member named 'HSIDiv'
+  122 |   RCC_OscInitStruct.HSIDiv = RCC_HSI_DIV1;
+      |                    ^
+../Core/Src/main.c:122:30: error: 'RCC_HSI_DIV1' undeclared (first use in this function); did you mean 'RCC_HCLK_DIV1'?
+  122 |   RCC_OscInitStruct.HSIDiv = RCC_HSI_DIV1;
+      |                              ^~~~~~~~~~~~
+      |                              RCC_HCLK_DIV1
+../Core/Src/main.c:125:37: error: 'RCC_PLLSOURCE_HSI' undeclared (first use in this function); did you mean 'RCC_PLLSOURCE_HSE'?
+  125 |   RCC_OscInitStruct.PLL.PLLSource = RCC_PLLSOURCE_HSI;
+      |                                     ^~~~~~~~~~~~~~~~~
+      |                                     RCC_PLLSOURCE_HSE
+../Core/Src/main.c:126:25: error: 'RCC_PLLInitTypeDef' has no member named 'PLLM'; did you mean 'PLLMUL'?
+  126 |   RCC_OscInitStruct.PLL.PLLM = RCC_PLLM_DIV1;
+      |                         ^~~~
+      |                         PLLMUL
+../Core/Src/main.c:126:32: error: 'RCC_PLLM_DIV1' undeclared (first use in this function); did you mean 'RCC_HCLK_DIV1'?
+  126 |   RCC_OscInitStruct.PLL.PLLM = RCC_PLLM_DIV1;
+      |                                ^~~~~~~~~~~~~
+      |                                RCC_HCLK_DIV1
+../Core/Src/main.c:127:24: error: 'RCC_PLLInitTypeDef' has no member named 'PLLN'
+  127 |   RCC_OscInitStruct.PLL.PLLN = 8;
+      |                        ^
+../Core/Src/main.c:128:24: error: 'RCC_PLLInitTypeDef' has no member named 'PLLP'
+  128 |   RCC_OscInitStruct.PLL.PLLP = RCC_PLLP_DIV2;
+      |                        ^
+../Core/Src/main.c:128:32: error: 'RCC_PLLP_DIV2' undeclared (first use in this function); did you mean 'RCC_PLLDIV_2'?
+  128 |   RCC_OscInitStruct.PLL.PLLP = RCC_PLLP_DIV2;
+      |                                ^~~~~~~~~~~~~
+      |                                RCC_PLLDIV_2
+../Core/Src/main.c:129:24: error: 'RCC_PLLInitTypeDef' has no member named 'PLLQ'
+  129 |   RCC_OscInitStruct.PLL.PLLQ = RCC_PLLQ_DIV2;
+      |                        ^
+../Core/Src/main.c:129:32: error: 'RCC_PLLQ_DIV2' undeclared (first use in this function); did you mean 'RCC_PLLDIV_2'?
+  129 |   RCC_OscInitStruct.PLL.PLLQ = RCC_PLLQ_DIV2;
+      |                                ^~~~~~~~~~~~~
+      |                                RCC_PLLDIV_2
+../Core/Src/main.c:130:24: error: 'RCC_PLLInitTypeDef' has no member named 'PLLR'
+  130 |   RCC_OscInitStruct.PLL.PLLR = RCC_PLLR_DIV2;
+      |                        ^
+../Core/Src/main.c:130:32: error: 'RCC_PLLR_DIV2' undeclared (first use in this function); did you mean 'RCC_PLLDIV_2'?
+  130 |   RCC_OscInitStruct.PLL.PLLR = RCC_PLLR_DIV2;
+      |                                ^~~~~~~~~~~~~
+      |                                RCC_PLLDIV_2
+../Core/Src/main.c: In function 'MX_GPIO_Init':
+../Core/Src/main.c:158:3: warning: implicit declaration of function '__HAL_RCC_GPIOF_CLK_ENABLE' [-Wimplicit-function-declaration]
+  158 |   __HAL_RCC_GPIOF_CLK_ENABLE();
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:31: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+12:59:48 Build Failed. 14 errors, 2 warnings. (took 463ms)
+

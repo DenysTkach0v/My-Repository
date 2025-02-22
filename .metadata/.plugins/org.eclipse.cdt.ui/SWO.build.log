@@ -1,0 +1,10 @@
+12:18:13 **** Incremental Build of configuration Debug for project SWO ****
+make -j8 all 
+arm-none-eabi-size  SWO.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7492	    120	   2080	   9692	   25dc	SWO.elf
+Finished building: default.size.stdout
+ 
+
+12:18:13 Build Finished. 0 errors, 0 warnings. (took 266ms)
+
